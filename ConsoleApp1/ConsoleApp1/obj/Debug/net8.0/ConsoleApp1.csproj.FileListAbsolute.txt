@@ -1,0 +1,14 @@
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\firas\Downloads\Repos\C-Banking-Console-Application\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
